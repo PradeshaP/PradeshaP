@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 
-![Pradesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradesha-P&show_icons=true&theme=radical)
+![Pradesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradeshaP&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradesha-P&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeshaP&layout=compact&theme=radical)
 
 ---
 
