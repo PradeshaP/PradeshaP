@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" height="40" />
   <img src="https://img.icons8.com/plasticine/48/react.png" alt="React.js" height="40" />
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" height="40" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-expressjs-a-minimal-and-flexible-node-js-web-application-framework-logo-shadow-tal-revivo.png" alt="Express.js" height="40" />
+  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" height="40" />
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" height="40" />
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" height="40" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" height="40" />
