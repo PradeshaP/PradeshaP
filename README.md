@@ -8,7 +8,6 @@
 🎓 I'm a 3rd-year Computer Science Engineering student passionate about **technology, problem-solving**, and making a **positive impact through community engagement**.
 
 ---
-
 ## 🚀 About Me
 
 - 💡 Enthusiastic about **AI, Full-Stack Development**, and **Database Systems**  
