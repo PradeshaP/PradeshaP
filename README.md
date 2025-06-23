@@ -1,7 +1,7 @@
 <!-- Animated Heading -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Pradesha+Ponnurangan;CSE+Student+%7C+Full-Stack+Dev+%7C+GenAI+Learner" alt="Typing SVG" />
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Pradesha+Ponnurangan;CSE+Student+from+India;Full-Stack+Developer+%7C+GenAI+Explorer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 # 👋 Hi, I'm Pradesha Ponnurangan
 
