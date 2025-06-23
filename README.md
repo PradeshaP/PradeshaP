@@ -1,6 +1,6 @@
 <!-- Animated Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Pradesha+Ponnurangan;CSE+Student+from+India;Full-Stack+Developer+%7C+GenAI+Explorer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Pradesha+Ponnurangan;Full-Stack+Developer+%7C+GenAI+Explorer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Pradesha Ponnurangan
