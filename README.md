@@ -51,11 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeshaP&layout=compact&theme=tokyonight&border_radius=12" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=PradeshaP&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
-</p>
-
-
 
 ## 📞 Contact Me
 
