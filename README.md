@@ -1,44 +1,81 @@
 
- <!-- Anime-Style Cyber Banner -->
-<div align="center" style="background-color:#000000; padding: 30px; border-radius: 12px;">
+<!-- Futuristic Cyber Header with Gradient Background -->
+<div align="center">
+  <!-- Animated Background Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=WELCOME%20TO%20MY%20DIGITAL%20REALM&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=16"/>
+</div>
 
-<!-- Top Tech Icons -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
-</p>
+<!-- Main Profile Section with Glassmorphism Effect -->
+<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 100%); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.18); border-radius: 20px; padding: 40px; margin: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
-<!-- Main Name Title -->
-<h1 style="color:#00ffcc; font-family: 'Orbitron', sans-serif; font-size: 36px; text-shadow: 0 0 15px #00ffcc;">💫 PRADESHA PONNURANGAN 💫</h1>
-<p style="color: #ccc; font-size: 16px; font-family: 'Fira Code', monospace;">
-Full-Stack Developer | GenAI Explorer
-</p>
+  <!-- Floating Tech Icons Animation -->
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="margin: 8px; animation: float 3s ease-in-out infinite;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin: 8px; animation: float 3s ease-in-out infinite 0.5s;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin: 8px; animation: float 3s ease-in-out infinite 1s;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin: 8px; animation: float 3s ease-in-out infinite 1.5s;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin: 8px; animation: float 3s ease-in-out infinite 2s;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin: 8px; animation: float 3s ease-in-out infinite 2.5s;" />
+  </p>
 
-<!-- Bottom Tech Icons -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" style="filter: invert(1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
-</p>
+  <!-- Animated Name with Holographic Effect -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=💫+PRADESHA;PONNURANGAN+💫" alt="Name Animation"/>
+  </h1>
+
+  <!-- Subtitle with Gradient Text Effect -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=764BA2&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+GenAI+Explorer;🚀+Building+the+Future+with+Code+🚀;💡+Innovation+through+Technology+💡" alt="Subtitle Animation"/>
+  </p>
+
+  <!-- Professional Avatar with Border Animation -->
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/YourGitHubUsername?v=4" width="150" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 20px #667eea; animation: glow 2s ease-in-out infinite alternate;"/>
+  </p>
+
+  <!-- Tech Stack Icons with Hover Effects -->
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" style="margin: 5px; filter: drop-shadow(0 0 10px #e34c26);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" style="margin: 5px; filter: drop-shadow(0 0 10px #1572b6);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" style="margin: 5px; filter: drop-shadow(0 0 10px #47a248);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" style="margin: 5px; filter: drop-shadow(0 0 10px #4479a1);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" style="margin: 5px; filter: drop-shadow(0 0 10px #f05032);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" style="margin: 5px; filter: drop-shadow(0 0 10px #007acc);" />
+  </p>
 
 </div>
 
-<!-- Typing Animation -->
+<!-- Dynamic Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=⚡+Coding+in+the+Digital+Realm+⚡;🚀+Exploring+the+Future+of+AI+🚀;💫+Blending+Creativity+%26+Code+💫;🎯+Turning+Ideas+into+Reality+🎯" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=F093FB&background=00000000&center=true&vCenter=true&width=900&lines=🌟+Transforming+Ideas+into+Digital+Reality+🌟;⚡+Passionate+About+Clean+Code+%26+Innovation+⚡;🎯+Full-Stack+Developer+%7C+AI+Enthusiast+🎯;💎+Building+Tomorrow's+Technology+Today+💎" alt="Dynamic Banner"/>
 </p>
 
+<!-- Skill Badges with Animation -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=667eea&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=white&color=764ba2&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=for-the-badge&logo=nodejs&logoColor=white&color=f093fb&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=667eea&labelColor=1a1a2e" />
+</div>
 
-## 🎯 About Me
+<!-- Animated Separator -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&reversal=true"/>
+</div>
 
+<!-- CSS Animations (Note: This won't work in GitHub README, but shows the concept) -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  @keyframes glow {
+    from { box-shadow: 0 0 20px #667eea; }
+    to { box-shadow: 0 0 30px #764ba2, 0 0 40px #f093fb; }
+  }
+</style>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 🎓 **3rd-year CSE Student** passionate about transforming ideas into reality through code  
