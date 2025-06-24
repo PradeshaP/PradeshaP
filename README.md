@@ -89,19 +89,7 @@
 
 ---
 
-## 🌟 Fun Facts & Interests
 
-**const** pradesha = {  
-&nbsp;&nbsp;&nbsp;&nbsp;pronouns: **"He/Him"**,  
-&nbsp;&nbsp;&nbsp;&nbsp;location: **"Salem, Tamil Nadu, India"**,  
-&nbsp;&nbsp;&nbsp;&nbsp;currentlyLearning: [**"GenAI"**, **"Cloud Computing"**, **"DevOps"**],  
-&nbsp;&nbsp;&nbsp;&nbsp;funFact: **"I debug with console.log() and I'm not ashamed! 😄"**,  
-&nbsp;&nbsp;&nbsp;&nbsp;hobbies: [**"Coding"**, **"Community Service"**, **"Tech Blogs"**, **"Photography"**],  
-&nbsp;&nbsp;&nbsp;&nbsp;goal2025: **"Contribute to Open Source & Build Impactful Projects"**,  
-&nbsp;&nbsp;&nbsp;&nbsp;coffeeOrTea: **"☕ Coffee (Fuel for coding sessions!)"**  
-};
-
----
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -109,8 +97,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponnuranganpradesha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradesha-ponnurangan-a0537028b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 </div>
 
