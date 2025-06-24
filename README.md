@@ -1,36 +1,47 @@
+# 🌟 Welcome to My Digital Universe! 🌟
+
 <div align="center">
 
-<!-- Single Anime-Style Banner with All Tech Icons -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=300&section=header&text=PRADESHA%20PONNURANGAN&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20GenAI%20Explorer&descAlignY=70&descSize=16&descColor=00ff88"/>
-
-<!-- Tech Icons Overlay - Top Row -->
-<div style="margin-top: -280px; position: relative; z-index: 10;">
-  <p align="center">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black&labelColor=transparent&color=transparent" width="40" alt="C"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="C++"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=transparent&color=transparent" width="40" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="HTML"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="CSS"/>
-  </p>
+<!-- Custom Anime-Style Tech Banner -->
+<div style="position: relative; width: 100%; height: 250px; background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 25%, #16213e 50%, #0f3460 75%, #533483 100%); border-radius: 15px; overflow: hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  
+  <!-- Animated Circuit Background -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="circuit" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 10h20M10 0v20" stroke="%23ffffff" stroke-width="0.5" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23circuit)"/></svg>'); opacity: 0.3;"></div>
+  
+  <!-- Tech Icons - Top Row -->
+  <div style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); display: flex; gap: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  </div>
+  
+  <!-- Main Name and Title -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
+    <h1 style="font-size: 48px; font-weight: bold; margin: 0; text-shadow: 0 0 20px rgba(0,255,136,0.5); font-family: 'Orbitron', monospace;">PRADESHA PONNURANGAN</h1>
+    <p style="font-size: 18px; margin: 10px 0 0 0; color: #00ff88; font-family: 'Fira Code', monospace;">Full-Stack Developer | GenAI Explorer</p>
+  </div>
+  
+  <!-- Tech Icons - Bottom Row -->
+  <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); display: flex; gap: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  </div>
+  
+  <!-- Glowing Effects -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at 20% 20%, rgba(0,255,136,0.1) 0%, transparent 40%), radial-gradient(circle at 80% 80%, rgba(102,126,234,0.1) 0%, transparent 40%);"></div>
 </div>
 
-<!-- Tech Icons Overlay - Bottom Row -->
-<div style="margin-top: 50px; position: relative; z-index: 10;">
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=transparent&color=transparent" width="40" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="Express"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="Git"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=transparent&color=transparent" width="40" alt="VS Code"/>
-  </p>
-</div>
-
-<!-- Anime-Style Matrix Effect -->
-<p align="center" style="margin-top: 30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=900&lines=🌸+Coding+in+the+digital+realm+🌸;⚡+Building+the+future+with+AI+⚡;🚀+Where+technology+meets+creativity+🚀;💫+Debugging+reality%2C+one+line+at+a+time+💫" alt="Anime Typing" />
+<!-- Anime-Style Typing Effect -->
+<p align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=⚡+Coding+in+the+digital+realm+⚡;🚀+Building+the+future+with+AI+🚀;💫+Where+technology+meets+creativity+💫;🎯+Turning+ideas+into+reality+🎯" alt="Anime Typing" />
 </p>
 
 </div>
