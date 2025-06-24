@@ -9,7 +9,7 @@
    
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;🤖+GenAI+Explorer;💡+Tech+Innovator;🌱+Lifelong+Learner;👨‍💻+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;🤖+GenAI+Explorer;💡+Tech+Innovator;👨‍💻+Problem+Solver" alt="Typing SVG" />
 </p>
 
 
