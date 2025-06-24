@@ -19,7 +19,8 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" alt="Anime Girl Coding" width="400" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
+
 
 
 - 🎓 **3rd-year CSE Student** passionate about transforming ideas into reality through code  
