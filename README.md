@@ -19,8 +19,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Girl Working" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
+<img align="right" alt="Developer Girl" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 
 
