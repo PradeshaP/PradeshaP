@@ -58,7 +58,7 @@
 ### 📌 CGPA Calculator  
 A web-based academic performance tool that lets students calculate GPA and CGPA based on subject marks and stores student data in an Oracle database.  
 **Tech Stack**: HTML, CSS, JavaScript, Express.js, Oracle DB  
-🔗 [View on GitHub](https://github.com/PradeshaP/cgpa-calculator)
+🔗 [View on GitHub](https://github.com/PradeshaP/cgpa_calculator)
 
 ---
 
