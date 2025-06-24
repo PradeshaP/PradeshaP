@@ -1,9 +1,22 @@
 # 🌟 Welcome to My Digital Universe! 🌟
 
-<div align="center">
+<!-- ⚡ Futuristic Cyber Banner -->
+<div align="center" style="position: relative; background: linear-gradient(135deg, #000000, #0f0c29, #302b63, #24243e); padding: 50px 20px; border-radius: 20px; box-shadow: 0 0 60px rgba(102,126,234,0.4); overflow: hidden;">
 
-<!-- Animated Header with Wave Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pradesha%20Ponnurangan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <!-- Glitchy Scanline Effect -->
+  <div style="position:absolute;top:0;left:0;width:100%;height:100%;background: repeating-linear-gradient(0deg, rgba(255,255,255,0.03), rgba(255,255,255,0.03) 2px, transparent 2px, transparent 4px); pointer-events:none;"></div>
+
+  <!-- Neon Glow Name -->
+  <h1 style="font-family: 'Orbitron', sans-serif; font-size: 48px; color: #00ffe5; text-shadow: 0 0 10px #00ffe5, 0 0 20px #00ffe5, 0 0 40px #00ffe5; margin-bottom: 20px;">
+    💫 PRADESHA PONNURANGAN 💫
+  </h1>
+
+  <!-- Animated Subtitle -->
+  <p style="font-size: 20px; color: #ffffffcc; font-family: 'Fira Code', monospace;">
+    🚀 Full-Stack Developer & GenAI Explorer 🚀
+  </p>
+
+</div>
 
 <!-- Animated Typing Effect -->
 <p align="center">
