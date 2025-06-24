@@ -1,40 +1,12 @@
 # 🌟 Welcome to My Digital Universe! 🌟
 
 
- <!-- ⚡ Glowing Cyber Header -->
-<div align="center" style="padding: 60px 20px; background: linear-gradient(145deg, #000000, #0f0c29, #302b63, #24243e); border-radius: 20px; box-shadow: 0 0 80px rgba(118,75,162,0.6);">
+<div align="center">
 
-  <!-- Name with Neon Glow -->
-  <h1 style="font-family: 'Orbitron', sans-serif; font-size: 52px; color: #f093fb; text-shadow: 0 0 10px #f093fb, 0 0 20px #764ba2, 0 0 30px #764ba2;">
-    👾 PRADESHA PONNURANGAN 👾
-  </h1>
+<!-- Animated Header with Wave Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pradesha%20Ponnurangan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-  <!-- Subtitle -->
-  <p style="font-size: 20px; color: #e0e0e0; font-family: 'Fira Code', monospace; margin-top: 10px;">
-    🚀 Full-Stack Dev • 🤖 GenAI Explorer • 💡 Innovator
-  </p>
-
-  <!-- Floating Tech Icons -->
-  <div style="margin-top: 40px; animation: float 6s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin: 12px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin: 12px;" />
-  </div>
-</div>
-
-<!-- Animation (note: doesn't render in GitHub) -->
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-12px); }
-}
-</style>
-
+   
 <!-- Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;🤖+GenAI+Explorer;💡+Tech+Innovator;🌱+Lifelong+Learner;👨‍💻+Problem+Solver" alt="Typing SVG" />
