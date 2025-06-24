@@ -1,16 +1,29 @@
 <div align="center">
 
-<!-- Modern Tech Banner with Icons -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=PRADESHA%20PONNURANGAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20GenAI%20Explorer&descAlignY=60&descSize=18"/>
+<!-- Anime-Style Cyberpunk Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=250&section=header&text=PRADESHA%20PONNURANGAN&fontSize=38&fontColor=00ff88&animation=blinking&fontAlignY=45&desc=⚡%20Software%20Developer%20⚡%20AI%20Explorer%20⚡&descAlignY=65&descSize=16&descColor=ffffff"/>
 
-<!-- Tech Stack Icons Row -->
+<!-- Floating Tech Icons with Anime Style -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,python,java,cpp,html,css,mongodb,mysql,git,github" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-<!-- Professional Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=64748b&center=true&vCenter=true&width=800&lines=💻+Building+scalable+web+applications;🤖+Exploring+Generative+AI+possibilities;🚀+Turning+innovative+ideas+into+reality;📚+Continuous+learning+and+growth" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</p>
+
+<!-- Anime-Style Matrix Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=900&lines=🌸+Coding+in+the+digital+realm+🌸;⚡+Bringing+anime+dreams+to+code+⚡;🚀+Building+the+future+with+AI+🚀;💫+Where+technology+meets+creativity+💫;🎯+Debugging+reality%2C+one+line+at+a+time+🎯" alt="Anime Typing" />
 </p>
 
 </div>
