@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pradesha%20Ponnurangan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🤖+GenAI+Explorer;💡+Tech+Innovator;🌱+Lifelong+Learner;👨‍💻+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;🤖+GenAI+Explorer;💡+Tech+Innovator;🌱+Lifelong+Learner;👨‍💻+Problem+Solver" alt="Typing SVG" />
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=PradeshaP&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=PradeshaP&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" />
 
 </div>
 
@@ -103,14 +103,14 @@
 
 <div align="center">
 
-```typescript
+```javascript
 const pradesha = {
     pronouns: "He/Him",
     location: "Salem, Tamil Nadu, India",
     currentlyLearning: ["GenAI", "Cloud Computing", "DevOps"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     hobbies: ["Coding", "Community Service", "Tech Blogs", "Photography"],
-    goal2024: "Contribute to Open Source & Build Impactful Projects",
+    goal2025: "Contribute to Open Source & Build Impactful Projects",
     coffeeOrTea: "☕ Coffee (Fuel for coding sessions!)"
 };
 ```
