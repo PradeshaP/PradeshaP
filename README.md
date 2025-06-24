@@ -46,7 +46,13 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
 
 ### 🗄️ Databases & Tools  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" height="40" alt="Oracle Logo" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+
 
 </div>
 
