@@ -37,16 +37,13 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" />
 
 ### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
 
 ### 🗄️ Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux&theme=dark" />
 
 </div>
 
@@ -143,16 +140,7 @@ const pradesha = {
 
 </div>
 
----
 
-## 🎵 Coding Playlist
-
-<div align="center">
-
-🎵 Currently vibing to: **Lo-fi Hip Hop** while coding  
-🎧 Favorite coding music: **Synthwave & Ambient Electronic**
-
-</div>
 
 ---
 
