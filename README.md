@@ -19,9 +19,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-
+<img align="right" alt="Girl Working" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 - 🎓 **3rd-year CSE Student** passionate about transforming ideas into reality through code  
 - 🌟 **Mission**: Creating innovative solutions that make a positive impact on society  
