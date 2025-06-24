@@ -1,13 +1,16 @@
 <div align="center">
 
-<!-- Clean Professional Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=180&section=header&text=Pradesha%20Ponnurangan&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<!-- Modern Tech Banner with Icons -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=PRADESHA%20PONNURANGAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20GenAI%20Explorer&descAlignY=60&descSize=18"/>
 
-<!-- Simple Professional Description -->
-<h3 align="center">Full-Stack Developer | GenAI Explorer | Tech Enthusiast</h3>
-
+<!-- Tech Stack Icons Row -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=4000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Building+innovative+solutions+with+code;Exploring+the+world+of+Generative+AI;Passionate+about+problem+solving" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,python,java,cpp,html,css,mongodb,mysql,git,github" alt="Tech Stack" />
+</p>
+
+<!-- Professional Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=64748b&center=true&vCenter=true&width=800&lines=💻+Building+scalable+web+applications;🤖+Exploring+Generative+AI+possibilities;🚀+Turning+innovative+ideas+into+reality;📚+Continuous+learning+and+growth" alt="Typing SVG" />
 </p>
 
 </div>
