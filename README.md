@@ -1,22 +1,14 @@
-# 🌟 Welcome to My Digital Universe! 🌟
-
 <div align="center">
 
-<!-- Modern Gradient Name Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=PRADESHA%20PONNURANGAN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20GenAI%20Explorer&descAlignY=51&descAlign=62"/>
+<!-- Clean Professional Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=180&section=header&text=Pradesha%20Ponnurangan&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<!-- Stylish Name with Glitch Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&height=70&lines=PRADESHA+PONNURANGAN;%F0%9F%9A%80+CODE+ARCHITECT+%F0%9F%9A%80;%F0%9F%A4%96+AI+INNOVATOR+%F0%9F%A4%96" alt="Name Animation" />
-</h1>
+<!-- Simple Professional Description -->
+<h3 align="center">Full-Stack Developer | GenAI Explorer | Tech Enthusiast</h3>
 
-<!-- Animated Role Descriptions -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Full-Stack+Developer+%26+Problem+Solver;%F0%9F%A4%96+GenAI+Explorer+%26+Tech+Innovator;%F0%9F%92%A1+Creating+Digital+Solutions+That+Matter;%F0%9F%8C%B1+Lifelong+Learner+%26+Code+Enthusiast;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=4000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Building+innovative+solutions+with+code;Exploring+the+world+of+Generative+AI;Passionate+about+problem+solving" alt="Typing SVG" />
 </p>
-
-<!-- Decorative Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -120,7 +112,7 @@
 
 ### 🚀 "Code is poetry written in logic" 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 **⭐ If you find my work interesting, consider giving it a star! ⭐**
 
