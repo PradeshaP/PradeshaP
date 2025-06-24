@@ -51,6 +51,23 @@
 </div>
 
 ---
+## 🚀 Projects
+
+<div align="center">
+
+### 📌 CGPA Calculator  
+A web-based academic performance tool that lets students calculate GPA and CGPA based on subject marks and stores student data in an Oracle database.  
+**Tech Stack**: HTML, CSS, JavaScript, Express.js, Oracle DB  
+🔗 [View on GitHub](https://github.com/PradeshaP/cgpa-calculator)
+
+---
+
+### 📌 Prescripto AI – Rural Healthcare Translator  
+An AI-powered web app that extracts text from prescriptions using OCR, corrects it via GenAI, and translates it into regional languages with text-to-speech — empowering rural communities with medical understanding.  
+**Tech Stack**: React, Node.js, Express, Tesseract.js, Groq API, OpenAI, Text-to-Speech  
+🔗 [View on GitHub](https://github.com/PradeshaP/Prescripto-AI)
+
+</div>
 
 ## 📊 GitHub Analytics
 
