@@ -19,7 +19,8 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Anime Girl Coding" width="400" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
+<img align="right" alt="Chill Girl Coder" width="400" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
+
 
 
 
