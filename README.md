@@ -1,7 +1,7 @@
 # 🌟 Welcome to My Digital Universe! 🌟
 
 <div align="center">
-  
+
 <!-- Animated Header with Wave Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pradesha%20Ponnurangan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
