@@ -1,11 +1,14 @@
 # 🌟 Welcome to My Digital Universe! 🌟
+
 <div align="center">
   
 <!-- Animated Header with Wave Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pradesha%20Ponnurangan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;🤖+GenAI+Explorer;💡+Tech+Innovator;🌱+Lifelong+Learner;👨‍💻+Problem+Solver" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;🤖+GenAI+Explorer;💡+Tech+Innovator;🌱+Lifelong+Learner;👨‍💻+Problem+Solver" alt="Typing SVG" />
+</p>
 
 </div>
 
@@ -72,19 +75,7 @@
 
 </div>
 
----
 
-## 🎨 Current Projects Spotlight
-
-<div align="center">
-
-| 🌟 Project | 📝 Description | 🛠️ Tech Stack |
-|------------|----------------|----------------|
-| **AI ChatBot** | Intelligent conversational AI | Python, TensorFlow, NLP |
-| **E-Commerce Platform** | Full-stack shopping solution | React, Node.js, MongoDB |
-| **Portfolio Website** | Responsive personal showcase | HTML5, CSS3, JavaScript |
-
-</div>
 
 ---
 
@@ -100,21 +91,15 @@
 
 ## 🌟 Fun Facts & Interests
 
-<div align="center">
-
-```javascript
-const pradesha = {
-    pronouns: "He/Him",
-    location: "Salem, Tamil Nadu, India",
-    currentlyLearning: ["GenAI", "Cloud Computing", "DevOps"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    hobbies: ["Coding", "Community Service", "Tech Blogs", "Photography"],
-    goal2025: "Contribute to Open Source & Build Impactful Projects",
-    coffeeOrTea: "☕ Coffee (Fuel for coding sessions!)"
+**const** pradesha = {  
+&nbsp;&nbsp;&nbsp;&nbsp;pronouns: **"He/Him"**,  
+&nbsp;&nbsp;&nbsp;&nbsp;location: **"Salem, Tamil Nadu, India"**,  
+&nbsp;&nbsp;&nbsp;&nbsp;currentlyLearning: [**"GenAI"**, **"Cloud Computing"**, **"DevOps"**],  
+&nbsp;&nbsp;&nbsp;&nbsp;funFact: **"I debug with console.log() and I'm not ashamed! 😄"**,  
+&nbsp;&nbsp;&nbsp;&nbsp;hobbies: [**"Coding"**, **"Community Service"**, **"Tech Blogs"**, **"Photography"**],  
+&nbsp;&nbsp;&nbsp;&nbsp;goal2025: **"Contribute to Open Source & Build Impactful Projects"**,  
+&nbsp;&nbsp;&nbsp;&nbsp;coffeeOrTea: **"☕ Coffee (Fuel for coding sessions!)"**  
 };
-```
-
-</div>
 
 ---
 
