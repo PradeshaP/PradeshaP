@@ -46,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
 
 ### 🗄️ Databases & Tools  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,git,github,vscode&theme=dark" />
 
 </div>
 
