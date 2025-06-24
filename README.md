@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Chill Girl Coder" width="400" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
+<img align="right" alt="Pixel Girl Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
 
 
 
