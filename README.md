@@ -1,20 +1,41 @@
-# 🚀 Pradesha Ponnurangan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=⚡+Coding+in+the+Digital+Realm+⚡;🚀+Exploring+the+Future+of+AI+🚀;💫+Blending+Creativity+%26+Code+💫;🎯+Turning+Ideas+into+Reality+🎯" alt="Typing Banner" />
+ <!-- Anime-Style Cyber Banner -->
+<div align="center" style="background-color:#000000; padding: 30px; border-radius: 12px;">
+
+<!-- Top Tech Icons -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" />
+<!-- Main Name Title -->
+<h1 style="color:#00ffcc; font-family: 'Orbitron', sans-serif; font-size: 36px; text-shadow: 0 0 15px #00ffcc;">💫 PRADESHA PONNURANGAN 💫</h1>
+<p style="color: #ccc; font-size: 16px; font-family: 'Fira Code', monospace;">
+Full-Stack Developer | GenAI Explorer
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,vscode&theme=dark" />
+<!-- Bottom Tech Icons -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
 </p>
 
-<p align="center"><b>Full-Stack Developer | Generative AI Explorer</b></p>
+</div>
 
----
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=⚡+Coding+in+the+Digital+Realm+⚡;🚀+Exploring+the+Future+of+AI+🚀;💫+Blending+Creativity+%26+Code+💫;🎯+Turning+Ideas+into+Reality+🎯" alt="Typing Banner" />
+</p>
+
 
 ## 🎯 About Me
 
