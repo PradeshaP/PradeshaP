@@ -1,22 +1,39 @@
 # 🌟 Welcome to My Digital Universe! 🌟
 
-<!-- ⚡ Futuristic Cyber Banner -->
-<div align="center" style="position: relative; background: linear-gradient(135deg, #000000, #0f0c29, #302b63, #24243e); padding: 50px 20px; border-radius: 20px; box-shadow: 0 0 60px rgba(102,126,234,0.4); overflow: hidden;">
 
-  <!-- Glitchy Scanline Effect -->
-  <div style="position:absolute;top:0;left:0;width:100%;height:100%;background: repeating-linear-gradient(0deg, rgba(255,255,255,0.03), rgba(255,255,255,0.03) 2px, transparent 2px, transparent 4px); pointer-events:none;"></div>
+ <!-- ⚡ Glowing Cyber Header -->
+<div align="center" style="padding: 60px 20px; background: linear-gradient(145deg, #000000, #0f0c29, #302b63, #24243e); border-radius: 20px; box-shadow: 0 0 80px rgba(118,75,162,0.6);">
 
-  <!-- Neon Glow Name -->
-  <h1 style="font-family: 'Orbitron', sans-serif; font-size: 48px; color: #00ffe5; text-shadow: 0 0 10px #00ffe5, 0 0 20px #00ffe5, 0 0 40px #00ffe5; margin-bottom: 20px;">
-    💫 PRADESHA PONNURANGAN 💫
+  <!-- Name with Neon Glow -->
+  <h1 style="font-family: 'Orbitron', sans-serif; font-size: 52px; color: #f093fb; text-shadow: 0 0 10px #f093fb, 0 0 20px #764ba2, 0 0 30px #764ba2;">
+    👾 PRADESHA PONNURANGAN 👾
   </h1>
 
-  <!-- Animated Subtitle -->
-  <p style="font-size: 20px; color: #ffffffcc; font-family: 'Fira Code', monospace;">
-    🚀 Full-Stack Developer & GenAI Explorer 🚀
+  <!-- Subtitle -->
+  <p style="font-size: 20px; color: #e0e0e0; font-family: 'Fira Code', monospace; margin-top: 10px;">
+    🚀 Full-Stack Dev • 🤖 GenAI Explorer • 💡 Innovator
   </p>
 
+  <!-- Floating Tech Icons -->
+  <div style="margin-top: 40px; animation: float 6s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin: 12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin: 12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin: 12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin: 12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin: 12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin: 12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin: 12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin: 12px;" />
+  </div>
 </div>
+
+<!-- Animation (note: doesn't render in GitHub) -->
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-12px); }
+}
+</style>
 
 <!-- Animated Typing Effect -->
 <p align="center">
