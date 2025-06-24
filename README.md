@@ -48,7 +48,7 @@
 ### 🗄️ Databases & Tools  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+
 
 
 
