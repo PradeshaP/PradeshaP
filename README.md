@@ -63,7 +63,7 @@ A web-based academic performance tool that lets students calculate GPA and CGPA 
 An AI-powered web app that extracts text from prescriptions using OCR, corrects it via GenAI, and translates it into regional languages with text-to-speech — empowering rural communities with medical understanding.  
 **Tech Stack**: React, Node.js, Express, Tesseract.js, Groq API, OpenAI, Text-to-Speech  
 🔗 [View on GitHub](https://github.com/PradeshaP/Prescripto-AI)  
-🌐 [Live App](https://prescripto-ai.vercel.app)
+🌐 [Live App](https://pradeshap.github.io/Prescripto-AI/)
 
 </div>
 
