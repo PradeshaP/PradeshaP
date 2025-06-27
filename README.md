@@ -1,17 +1,14 @@
 # 🌟 Welcome to My Digital Universe! 🌟
 
-
 <div align="center">
 
 <!-- Animated Header with Wave Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pradesha%20Ponnurangan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-   
 <!-- Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+Developer;🤖+GenAI+Explorer;💡+Tech+Innovator;👨‍💻+Problem+Solver" alt="Typing SVG" />
 </p>
-
 
 </div>
 
@@ -32,7 +29,6 @@
 
 <br clear="right"/>
 
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -46,15 +42,12 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
 
 ### 🗄️ Databases & Tools  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" />
-
-
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
+
 ## 🚀 Projects
 
 <div align="center">
@@ -69,9 +62,12 @@ A web-based academic performance tool that lets students calculate GPA and CGPA 
 ### 📌 Prescripto AI – Rural Healthcare Translator  
 An AI-powered web app that extracts text from prescriptions using OCR, corrects it via GenAI, and translates it into regional languages with text-to-speech — empowering rural communities with medical understanding.  
 **Tech Stack**: React, Node.js, Express, Tesseract.js, Groq API, OpenAI, Text-to-Speech  
-🔗 [View on GitHub](https://github.com/PradeshaP/Prescripto-AI)
+🔗 [View on GitHub](https://github.com/PradeshaP/Prescripto-AI)  
+🌐 [Live App](https://prescripto-ai.vercel.app)
 
 </div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -127,6 +123,4 @@ An AI-powered web app that extracts text from prescriptions using OCR, corrects 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 **⭐ If you find my work interesting, consider giving it a star! ⭐**  
-![Visitor Count](https://profile-counter.glitch.me/PradeshaP/count.svg)
-
-</div>
+![Visitor Count](https://)
