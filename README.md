@@ -123,5 +123,6 @@ An AI-powered web app that extracts text from prescriptions using OCR, corrects 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 **⭐ If you find my work interesting, consider giving it a star! ⭐**  
-![Visitor Count](https://profile-counter.glitch.me/PradeshaP/count.svg)
+<img src="https://profile-counter.glitch.me/PradeshaP/count.svg" alt="Visitor Count" />
+
 </div>
